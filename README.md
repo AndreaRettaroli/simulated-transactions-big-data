@@ -35,7 +35,7 @@ Each transaction is represented by 10 features/columns:
 - <strong> MONTH</strong>: the month of the transaction
 - <strong> DAY</strong>: the day of the transaction
 - <strong> EXP_TYPE</strong>: the expenditure type (listed above)
-- <strong> AMOUNT</strong>: the amount of the transaction (in dollars $)
+- <strong> AMOUNT</strong>: the amount of the transaction in dollars $
 
 
 # Setup cluster environment 
